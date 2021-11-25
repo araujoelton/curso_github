@@ -1,2 +1,6 @@
-git init    - inicializa o repositorio e enxarga as mudanças
-git status  - lista arquivos novos e/ou que não foram commitados
+git init                -   inicializa o repositorio e enxarga as mudanças
+git status              -   lista arquivos novos e/ou que não foram commitados
+git log                 -   exibe os logs dos commits
+git log - decorate      -   exibe os logs dos commits
+git log - author="NOME" -   exibe os logs do um author
+git shortlog            -   exibe em ordem quais autores fizeram commit e em quais arquivos
